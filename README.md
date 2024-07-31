@@ -17,8 +17,8 @@ This repository contains the source code and resources for my Pascal Compiler pr
 - **Three-Address Code Generation:**
   - Translates the Pascal program into an intermediate three-address code for further processing by the compiler.
   
-- **C Code Output:**
-  - Produces C code that prints the output for the input Pascal program, effectively acting as a compiler.
+- **Pacal Code Output:**
+  - Produces the pascal code output for the input Pascal program, effectively acting as a compiler by using same logics in C language.
   
 - **Testing and Optimization:**
   - Conducted thorough testing and optimization to ensure the compiler’s reliability, achieving an 85% accuracy rate in generating output from compiled programs.
